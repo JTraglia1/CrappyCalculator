@@ -1,0 +1,34 @@
+<!--/**
+*  The strings.xml file is a resource that contains an identifier for all
+*  strings utilized in the activity_main.xml file.
+*
+*  @author Joseph Traglia
+*
+*/-->
+<resources>
+    <string name="app_name">Crappy Calculator - JT</string>
+
+    <string name="btnZero">0</string>
+    <string name="btnOne">1</string>
+    <string name="btnTwo">2</string>
+    <string name="btnThree">3</string>
+    <string name="btnFour">4</string>
+    <string name="btnFive">5</string>
+    <string name="btnSix">6</string>
+    <string name="btnSeven">7</string>
+    <string name="btnEight">8</string>
+    <string name="btnNine">9</string>
+
+    <string name="btnAdd">+</string>
+    <string name="btnSubtract">-</string>
+    <string name="btnMultiply">X</string>
+    <string name="btnDivide">/</string>
+
+    <string name="btnAllClear">AC</string>
+    <string name="btnPositiveNegative">+/-</string>
+    <string name="btnPercentage">%</string>
+    <string name="btnDecimal">.</string>
+    <string name="btnEquals">=</string>
+
+    <string name="tvSolution">0</string>
+</resources>
